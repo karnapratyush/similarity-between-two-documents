@@ -9,6 +9,11 @@ Here we are decribing each word as a vector. Thus there are  some unique words i
 
 thus we can find the similarity between two documents.
 
+
+In  example.py I am taking topic of uncertanity principle from
+https://www.theguardian.com/science/2013/nov/10/what-is-heisenbergs-uncertainty-principle
+and
+https://www.britannica.com/science/uncertainty-principle
 Suggestions will be appreciated
 
 
