@@ -60,10 +60,10 @@ d_2=d_1.copy()
 
 
 for i in li_1:
-    d_1[i]=+1
+    d_1[i]+=1
     
 for i in li_2:
-    d_2[i]=+1
+    d_2[i]+=1
 
 
 dot=0
