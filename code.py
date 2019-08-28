@@ -43,10 +43,10 @@ d_2=d_1.copy()
 
 # counting the times the words are repeated in sen_1 i.e. calculating magnitude of words vectors in sen_1 and sen_2
 for i in li_1:
-    d_1[i]=+1
+    d_1[i]+=1
     
 for i in li_2:
-    d_2[i]=+1
+    d_2[i]+=1
 
 # calculating u.v
 
