@@ -9,4 +9,6 @@ Here we are decribing each word as a vector. Thus there are  some unique words i
 
 thus we can find the similarity between two documents.
 
+Suggestions will be appreciated
+
 
